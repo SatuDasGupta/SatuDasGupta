@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SatuDasGupta
 - 👀 I’m a Freelancer
-- 🌱 I’m currently learning ...Phython base web developing
-- 💞️ I’m looking to collaborate on ...Freelancer marketplace
+- 🌱 I’m currentlylearning.... Python-based web development
+- 💞️ I’m looking to collaborate on the freelancer marketplace
 - 📫 How to reach me ...
 
 <!---
